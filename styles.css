@@ -1,0 +1,51 @@
+*{
+    font-family: 'Lato', sans-serif;
+}
+
+.header{
+    display: flex;
+    height: 80px;
+    padding: 19px;
+    justify-content: space-around;
+}
+
+.header__nav{
+    display: flex;
+    justify-content: space-around;
+    width: 384px;
+}
+
+.header__nav-links a {
+    text-decoration: none;
+    color: black;
+    text-transform: uppercase;
+}
+
+.team{
+    background-color: #F6F6F6;
+    padding: 150px 10vw;
+    text-align: center;
+}
+
+.team__list{
+    display: inline-flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.team__item{
+    margin: 15px;
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.footer__social-list{
+    display: flex;
+    justify-content: space-between;
+    width: 285px;
+}
