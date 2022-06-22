@@ -10,9 +10,9 @@ team
     team__decorationLine
     team__descriptionText
     team__list
-        team__item item-team      
-            item-team__photo
-                item-team__photo--active-w-icons       
+        ??team__item item-team          //TODO: change   
+          ??  item-team__photo
+            ??    item-team__photo--active-w-icons       
             item-team__name
             item-team__profession
 
