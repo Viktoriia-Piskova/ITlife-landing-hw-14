@@ -1,0 +1,36 @@
+header
+    header__logo
+    header__nav 
+        header__nav-links
+        header__nav-links-active
+    header__button
+
+team
+    team__title
+    team__decorationLine
+    team__descriptionText
+    team__list
+        team__item item-team
+            item-team__flipcard
+                item-team__flipcard-blue
+                    flipcard-blue__icon
+                item-team__flipcard-face
+            item-team__name
+            item-team__profession
+
+footer
+    footer__logo
+        //same stylea and classes as for header__nav 
+    footer__social-list
+         footer__social-items
+         footer__social-active
+
+
+
+
+
+
+
+
+
+        
